@@ -29,10 +29,16 @@
   
   </div>
 
-  <!--<div>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jocelyn409&theme=dark)](https://github.com/Jocelyn409/github-readme-stats)
+  <br/>
 
-  </div>-->
+  #
+
+  <br/>
+
+  <div style="padding-top:20px">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jocelyn409&theme=tokyonight&card_width=1050)](https://github.com/Jocelyn409/github-readme-stats)
+
+  </div>
   
 </div>
