@@ -55,5 +55,11 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jocelyn409&card_width=1000&theme=transparent&layout=compact)](https://github.com/Jocelyn409/github-readme-stats)
 
   </div>
+
+  <div>
+    
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jocelyn409&repo=OS-Simulator)](https://github.com/Jocelyn409/github-readme-stats)
+  
+  </div>
   
 </div>
