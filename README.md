@@ -52,12 +52,12 @@
 
   <div style="padding-top:20px" align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jocelyn409&card_width=800&theme=transparent&layout=compact)](https://github.com/Jocelyn409/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jocelyn409&card_width=900&theme=transparent&layout=compact)](https://github.com/Jocelyn409/github-readme-stats)
 
   </div>
 
   <div style="display: flex; flex-direction: row;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Jocelyn409&repo=Assembly-Compiler&theme=transparent" />
+  <a href="https://github.com/Jocelyn409/Assembly-Compiler"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Jocelyn409&repo=Assembly-Compiler&theme=transparent" /></a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Jocelyn409&repo=Shank-Interpreter&theme=transparent" />
   </div>
   
