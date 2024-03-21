@@ -52,7 +52,7 @@
 
   <div style="padding-top:20px" align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jocelyn409&card_width=900&theme=transparent&layout=compact)](https://github.com/Jocelyn409/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jocelyn409&card_width=900&theme=transparent)](https://github.com/Jocelyn409/github-readme-stats)
 
   </div>
 
