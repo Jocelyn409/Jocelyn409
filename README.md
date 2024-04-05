@@ -49,8 +49,8 @@
   #-->
 
   <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocelyn409&theme=transparent&layout=donut&hide_border=true&hide=Javascript,CSS,HTML,Racket,Makefile" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocelyn409&theme=transparent&layout=donut&hide_border=true&hide=Java,Python,C,Racket,Makefile,c%23&custom_title=" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocelyn409&theme=transparent&layout=donut&hide_border=true&hide=Javascript,CSS,HTML,Racket,Makefile&custom_title=Most-Used-Languages" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocelyn409&theme=transparent&layout=donut&hide_border=true&hide=Java,Python,C,Racket,Makefile,c%23&custom_title=Most-Used-Web-Languages" />
   </div>
   
   <div style="display: flex; flex-direction: row;">
