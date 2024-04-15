@@ -40,15 +40,16 @@
 
   <div>
   
-  <!--### Libraries
+  ### Libraries
   <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" />
+  <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" />
   <br />
   
   </div>
 
   <br/>
 
-  #-->
+  ---
 
   <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocelyn409&theme=transparent&layout=donut&hide_border=true&hide=Javascript,CSS,HTML,Racket,Makefile&custom_title=Most-Used-Languages" />
