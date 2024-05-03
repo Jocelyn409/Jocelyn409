@@ -56,8 +56,8 @@
   </div>
   
   <div style="display: flex; flex-direction: row;">
-    <a href="https://github.com/Jocelyn409/Assembly-Compiler"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Jocelyn409&repo=Assembly-Compiler&theme=transparent" /></a>
-    <a href="https://github.com/Jocelyn409/Shank-Interpreter"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Jocelyn409&repo=Shank-Interpreter&theme=transparent" /></a>
+    <a href="https://github.com/Jocelyn409/Assembly-Compiler"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Jocelyn409&repo=Assembly-Compiler&theme=transparent&border_color=30363d" /></a>
+    <a href="https://github.com/Jocelyn409/Shank-Interpreter"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Jocelyn409&repo=Shank-Interpreter&theme=transparent&border_color=30363d" /></a>
   </div>
   
 </div>
