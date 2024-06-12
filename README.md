@@ -52,8 +52,8 @@
   <br/>
 
   <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocelyn409&theme=transparent&layout=donut&hide_border=true&hide=Javascript,CSS,HTML,Racket,Makefile&custom_title=Most&nbsp;Used&nbsp;Languages" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocelyn409&theme=transparent&layout=donut&hide_border=true&hide=Java,Python,C,Racket,Makefile,c%23&custom_title=Most&nbsp;Used&nbsp;Web&nbsp;Languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocelyn409&theme=transparent&title_color=FFFFFF&layout=donut&hide_border=true&hide=Javascript,CSS,HTML,Racket,Makefile&custom_title=Most&nbsp;Used&nbsp;Languages" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocelyn409&theme=transparent&title_color=FFFFFF&layout=donut&hide_border=true&hide=Java,Python,C,Racket,Makefile,c%23&custom_title=Most&nbsp;Used&nbsp;Web&nbsp;Languages" />
   </div>
   
   <div style="display: flex; flex-direction: row;">
