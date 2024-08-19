@@ -2,7 +2,7 @@
   <div>
   
   ### Frameworks and languages
-  <a href="https://angular.dev/"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></a>
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer noopener"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></a>
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /></a>
   <a href="https://getbootstrap.com/"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></a>
@@ -10,8 +10,8 @@
   <a href="https://www.python.org/"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
   <a href="https://www.typescriptlang.org/"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
   <a href="https://www.javascript.com/"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
-  <a href=""><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
-  <a href=""><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/CSS"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
   <a href="https://sass-lang.com/"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
   <br />
   <br />
