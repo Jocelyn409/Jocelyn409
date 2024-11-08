@@ -3,6 +3,7 @@
   
   ### Frameworks and languages
   <a href="https://angular.dev/"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></a>
+  <a href="https://angular.dev/"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" /></a>
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /></a>
   <a href="https://getbootstrap.com/"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></a>
