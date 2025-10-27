@@ -31,7 +31,7 @@
   <a href="https://git-scm.com/"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
   <a href="https://about.gitlab.com/"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /></a>
   <a href="https://www.gnu.org/software/bash/"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /></a>
-  <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" /></a>
+  <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" /></a>
   <a href="https://www.raspberrypi.com/"><img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" /></a>
   <br />
   <br />
