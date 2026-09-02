@@ -52,11 +52,6 @@
   </div>
 
   <br/>
-
-  <div>
-    <img align="left" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Jocelyn409&theme=transparent&layout=donut&hide_border=true&hide=Javascript,CSS,HTML,Racket,Makefile&custom_title=Most&nbsp;Used&nbsp;Languages" />
-    <img align="right" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Jocelyn409&theme=transparent&layout=donut&hide_border=true&hide=Java,Python,C,Racket,Makefile,c%23&custom_title=Most&nbsp;Used&nbsp;Web&nbsp;Languages" />
-  </div>
   
   <div style="display: flex; flex-direction: row;">
     <a href="https://github.com/Jocelyn409/Assembly-Compiler"><img align="left" src="https://github-readme-stats-extended.vercel.app/api/pin/?username=Jocelyn409&repo=Assembly-Compiler&theme=transparent&border_color=30363d" /></a>
